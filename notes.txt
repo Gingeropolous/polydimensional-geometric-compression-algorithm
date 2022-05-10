@@ -1,1 +1,3 @@
 origami
+
+perhaps use elements of randomx. calculations / transforms for shapes or something. 
